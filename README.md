@@ -15,3 +15,8 @@ My name is Bob
 alex.log added to the file
 "
 
+
+"
+Some line added to alex.log
+"
+
