@@ -1,0 +1,2 @@
+{"Item":{"EmpID":{"N":"2"},"age":{"N":"12"},"Address":{"S":"Tel Aviv"},"height":{"N":"183"}}}
+{"Item":{"EmpID":{"N":"1"},"age":{"N":"10"},"visa":{"BOOL":true},"Name":{"S":"Alex"}}}
